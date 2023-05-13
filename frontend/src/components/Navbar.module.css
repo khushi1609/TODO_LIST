@@ -1,0 +1,31 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #E9EAEC;
+    background-image: linear-gradient(#E9EAEC,#B7CFDC,#68BBE3);
+    height: 480px;
+}
+
+ .navBar {
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* height: 60px; */
+    font-size: 24px;
+    background-color: #90ADC6;
+    font-family: Clademon;
+  }  
+  .navLink {
+    color: #333652;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    float: left;
+  }
+
+  .navLink:hover{
+    color: #90ADC6;
+    background-color: #2B4257;
+  }
+
+  
